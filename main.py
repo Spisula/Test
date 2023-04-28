@@ -7,8 +7,3 @@ with open('logfile.txt', 'r', encoding='utf-8') as log, open('output.txt', 'w', 
             print(item[0])
 
     print(lst)
-def plus(x, y):
-    return x + y
-
-def minus(x, y):
-    return x - y
