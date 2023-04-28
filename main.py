@@ -10,3 +10,5 @@ with open('logfile.txt', 'r', encoding='utf-8') as log, open('output.txt', 'w', 
 def plus(x, y):
     return x + y
 
+def minus(x, y):
+    return x - y
